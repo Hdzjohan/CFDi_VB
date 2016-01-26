@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\192.168.1.11\Pruebas\PUBLICAR_CFDI_PRUEBAS\|\\192.168.1.11\stctca\CFDi\SETUP_CFDi_TCA\|ftp://200.76.182.56/cfdi/SETUP_CFDi_TCA/|F:\STC R2\CFD\|\\192.168.1.11\stctca\CFDi\SETUP_CFDi_TCA\CFDi.exe\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.1.11\stctca\CFDi\SETUP_CFDi_TCA\|//200.76.182.56/cfdi/SETUP_CFDi_TCA/|//200.76.182.56/cfdi/CartasPorte/tqpa/2014/06/TCA-tqpa25000.pdf/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

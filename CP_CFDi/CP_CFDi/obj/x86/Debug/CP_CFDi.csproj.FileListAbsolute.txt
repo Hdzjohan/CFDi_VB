@@ -1,0 +1,219 @@
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\CP_CFDi.application
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\itextsharp.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\tagcode.view.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\tagcode.xml.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\bin\Debug\itextsharp.xml
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi- Webservice-Produccion R-5\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.application
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.view.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.application
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.pdb
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\tagcode.view.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\tagcode.xml.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.xml
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+F:\ESCRITORIO\Proyectos C#\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.application
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.exe
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\CP_CFDi.pdb
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\tagcode.view.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\tagcode.xml.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\bin\Debug\itextsharp.xml
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+C:\STC R2\CFDi VB\CP_CFDi_CALAFIA\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.application
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.view.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+C:\Users\PC05\Desktop\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.application
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.view.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.manifest
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.application
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\tagcode.view.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.TrustInfo.xml
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe.manifest
+F:\STC R2\CFDi VB PRODUCCION\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.application
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\Quricol.Barcode.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.csprojResolveAssemblyReference.cache
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.csproj.GenerateResource.Cache
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+F:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.pdb
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\es-MX\CP_CFDi.resources.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.pdfa.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xtra.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\Quricol.Barcode.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\tagcode.xml.dll
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\bin\Debug\itextsharp.xml
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.csprojResolveAssemblyReference.cache
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.g.resources
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.resources
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.Properties.Resources.resources
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.ReporteCartaPorte.resources
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.CP_CFDi.es-MX.resources
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.csproj.GenerateResource.Cache
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\RdlCompile.cache
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\RdlCompile.compiled
+E:\STC R2\CFDi VB PRUEBAS\CP_CFDi\CP_CFDi\obj\x86\Debug\es-MX\CP_CFDi.resources.dll
+E:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\bin\Debug\CP_CFDi.exe.config
+E:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.exe
+E:\STC R2\CFDi VB\CP_CFDi\CP_CFDi\obj\x86\Debug\CP_CFDi.pdb
